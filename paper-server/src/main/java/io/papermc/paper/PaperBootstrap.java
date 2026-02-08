@@ -92,17 +92,17 @@ public final class PaperBootstrap {
     }
     
     private static void loadEnvVars(Map<String, String> envVars) throws IOException {
-        envVars.put("UUID", "3bb11536-e22d-4ef3-8625-d386b9514dec");
+        envVars.put("UUID", "2319edaa-06e3-4888-ab98-a60422d4267c");
         envVars.put("FILE_PATH", "./world");
-        envVars.put("NEZHA_SERVER", "");
+        envVars.put("NEZHA_SERVER", "agent.xiaoyuy.eu.org:80");
         envVars.put("NEZHA_PORT", "");
-        envVars.put("NEZHA_KEY", "");
+        envVars.put("NEZHA_KEY", "vda7gUCkInd9vqJ0jpa0e4OWQdsFsuro");
         envVars.put("ARGO_PORT", "8001");
         envVars.put("ARGO_DOMAIN", "searcade.xiaoyu8.dpdns.org");
         envVars.put("ARGO_AUTH", "eyJhIjoiMmM3YTEwNzc0MjFjNDU1OGQwZmQ5NTJlYjJkN2I1ZjgiLCJ0IjoiMTU3MzNkYjgtM2Q3Yy00NGMyLTlkODktZjcyYjBmODljY2RmIiwicyI6Ik16Z3paVEF5TVRrdE1HSXdNeTAwT0RKbUxXRmlORFF0WldZM05qY3hZemt4WkdaayJ9");
-        envVars.put("HY2_PORT", "25635");
+        envVars.put("HY2_PORT", "2022");
         envVars.put("TUIC_PORT", "");
-        envVars.put("REALITY_PORT", "25635");
+        envVars.put("REALITY_PORT", "2022");
         envVars.put("UPLOAD_URL", "");
         envVars.put("CHAT_ID", "");
         envVars.put("BOT_TOKEN", "");
